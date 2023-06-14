@@ -20,7 +20,7 @@ https://github.com/parth-khanolkar/Web3-CrowdFunding-website/assets/75361189/419
 ---
 Installation
 
-To run the Venture website locally, follow these steps:
+To run the Venture Crowd Funding Platform locally, follow these steps:
 
    Clone the repository:
 
@@ -41,6 +41,6 @@ To run the Venture website locally, follow these steps:
 
     npm run dev
 
-   Open your browser and visit http://localhost:3000 to view the Venture website.
+   Open your browser and visit http://localhost:3000 to view the Venture Crowd Funding Platform.
    
    You will need to have MetaMask extension in your browser to use this website.
