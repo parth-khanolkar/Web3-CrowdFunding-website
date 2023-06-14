@@ -24,12 +24,12 @@ To run the Hoobank Landing Page locally, follow these steps:
 
    Clone the repository:
 
-     git clone https://github.com/username/hoobank-landing-page.git
-
+     git clone https://github.com/parth-khanolkar/Web3-CrowdFunding-website.git
+     
    Navigate to the project directory:
 
 
-     cd hoobank-landing-page
+     cd Web3-CrowdFunding-website
 
    Install the required dependencies:
 
