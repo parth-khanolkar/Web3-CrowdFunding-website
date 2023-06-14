@@ -17,3 +17,30 @@
 
 https://github.com/parth-khanolkar/Web3-CrowdFunding-website/assets/75361189/419691e7-40d3-4f65-a6b9-7e9c36f40575
 
+---
+Installation
+
+To run the Hoobank Landing Page locally, follow these steps:
+
+   Clone the repository:
+
+     git clone https://github.com/username/hoobank-landing-page.git
+
+   Navigate to the project directory:
+
+
+     cd hoobank-landing-page
+
+   Install the required dependencies:
+
+
+     npm install
+
+   Start the development server:
+
+
+    npm run dev
+
+   Open your browser and visit http://localhost:3000 to view the Hoobank Landing Page.
+   
+   You will need to have MetaMask extension in your browser to use this website.
